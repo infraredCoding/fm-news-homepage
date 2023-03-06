@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/infraredCoding/fm-news-homepage)
-- Live Site URL: [Add live site URL here](https://infraredcoding.github.io/fm-news-homepage)
+- Live Site URL: [Add live site URL here](news-homepage-fm-react.netlify.app)
 
 ## My process
 
